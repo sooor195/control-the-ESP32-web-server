@@ -1,1 +1,3 @@
 # control-the-ESP32-web-server
+this task related to controlling the lighting of the segment through web programming has been completed. 
+It begins by connecting the Arduino to the esp32 segment, which consists of two blue and red lights, we connect it to the device, and then through the code we start changing some parts, the password and the name of the router to open the com4 port and we copy the address IP for broadcasting by making it accessible to the web server, then we open the browser and search with the IP address, then the page appears in the on and off button when the selector button is pressed, the lights come on and the button changes from off to the state above the button, HTML was used to design the page and show Button cases and button ports.
